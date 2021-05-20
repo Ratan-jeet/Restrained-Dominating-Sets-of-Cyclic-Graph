@@ -4,9 +4,9 @@
 
 
 
-"RDP_algo.cpp"  is a brute force approach to compute the RDP of any unlabelled graph
-"Input:" 
-n,k where n is number of vertex in graph, and k is number of edges in graph
-enter k vertex pair for each edge (if there are 4 vertex then they are 0,1,2,3).
-"Output:" Restrained domination polynmial of input graph.
+"RDP_algo.cpp"  is a brute force approach to compute the RDP of any unlabelled graph  
+Input: 
+n,k where n is number of vertex in graph, and k is number of edges in graph  
+then enter k vertex pair for each edge (if there are 4 vertex then they are 0,1,2,3).  
+Output: Restrained domination polynmial of input graph.  
 
